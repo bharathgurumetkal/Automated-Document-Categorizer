@@ -13,6 +13,9 @@ An AI-powered web application that classifies documents into categories using ma
 
 
 ---
+![WhatsApp Image 2025-06-22 at 15 36 34_59bbbc8e](https://github.com/user-attachments/assets/70787a2a-3d93-4be1-8a1f-c7bf043e585d)
+
+
 
 ## 🛠️ Tech Stack
 
@@ -37,9 +40,5 @@ An AI-powered web application that classifies documents into categories using ma
 
 ---
 
-## 📦 Installation & Setup
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/automated-document-categorizer.git
-cd automated-document-categorizer
+
